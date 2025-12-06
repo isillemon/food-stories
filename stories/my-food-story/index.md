@@ -10,7 +10,6 @@ date: 2022-12-13
  Isaiah Sillemon tells the story of how he went to Matanzas during his time in New Mexico how it broke down a barrier of what community really means through the means of food.  
 
 {% include figure.html
-  class="right"
   width="40%"
   image-path="Matanza.png"
 %}
