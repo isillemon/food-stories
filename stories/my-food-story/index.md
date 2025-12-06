@@ -9,15 +9,7 @@ date: 2022-12-13
 # Matanza
  Isaiah Sillemon tells the story of how he went to Matanzas during his time in New Mexico how it broke down a barrier of what community really means through the means of food.  
 
-{% include figure.html
-  width="40%"
-  image-path="Matanza.png"
-%}
 
-
-{% include audio.html
-  src="Matanza.mp3"
-%}
 ## The Matanza Story
 At first glance, my matanza story sounds like a simple memory about trying amazing food in New Mexico for the first time. When I read it back through the lens of the course this semester, it becomes something much deeper, a story about migration, labor, ritual, community belonging, and learning how traditions shape identity. What stands out is how food becomes the pathway through which I cross cultural boundaries and confront differences between what I grew up knowing and what I encounter when I step into another community’s lived traditions.
 I started the story by grounding it in where I come from Dallas, Southern cooking, Tex-Mex, and Thanksgiving traditions. This reflects a classic course theme: food as something that anchors identity to place and family memory. My Thanksgiving foods represent not just meals but the emotional geography of home. This is similar to what we studied with national rituals, food becomes naturalized as “tradition,” even when we don’t normally question how these traditions are constructed.
@@ -29,5 +21,4 @@ Race and migration also sit just beneath the surface. As a young Black man from 
 Even the phrase describing my experience of a “different taste palette” points to identity expansion. Food here is not replacing my own traditions; it is layering onto them. The matanza doesn’t erase Thanksgiving it complicates it. I come away recognizing that traditions aren’t fixed inheritances but evolving relationships built through experiences that connect people across histories and differences.
  This story isn’t about “good food.” It’s about how food becomes a pathway to seeing labor, building solidarity, navigating cultural differences, and reshaping identity. The matanza stands as a powerful reminder that eating is never just about flavor, it is about the social worlds and power structures that bring food into being, and how those worlds invite or exclude people from belonging.
 
-## Analysis: Smoke, Memory, and Belonging
 
